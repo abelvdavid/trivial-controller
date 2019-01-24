@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="trivial_controller" type="node" name="trivial_controller" output="screen">
+    <!--
+    # Remap topics if needed.
+    <remap from="navigation" to="" />
+    <remap from="scan" to="" />
+    -->
+  </node>
+</launch>
